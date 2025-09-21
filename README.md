@@ -104,4 +104,4 @@ Key visualizations you should include:
 * Build an interactive dashboard (Streamlit / Dash / Tableau) for stakeholders.
 * Deeper customer segmentation using clustering (RFM analysis).
 
-*This README is a template. I can tailor it to your exact dataset and code (add code snippets, screenshots, or dashboard link). Do you want me to add a short `requirements.txt` and a ready-to-run `etl.py` script?*
+
