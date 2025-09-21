@@ -64,22 +64,6 @@ jupyter notebook notebooks/01-exploration.ipynb
 ```
 
 
-
-## Dataset
-
-Place your dataset CSV(s) in `data/raw/`. Typical columns used in this analysis:
-
-* `order_id`
-* `order_date` (YYYY-MM-DD)
-* `product_id` / `product_category`
-* `price` / `sales_amount`
-* `quantity`
-* `customer_id` (optional)
-* `country` / `region` (optional)
-
-> If dataset column names differ, update the cleaning script to map columns.
-
-
 ## Analysis & Visualizations
 
 Key visualizations you should include:
